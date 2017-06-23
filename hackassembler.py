@@ -1,5 +1,4 @@
 #HACK ASSEMBLER 
-#first, build a assembler that doesn't translate symbols
 
 import re 
 
